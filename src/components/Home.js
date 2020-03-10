@@ -6,6 +6,7 @@ render(){
     return <div>
         <h1>Hello {this.props.name}</h1>
         <p>Welcome to the world</p>
+        <p>This is new line</p>
     </div>
 }
 
